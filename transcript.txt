@@ -1,0 +1,11 @@
+========== Transcript ==========
+Generated: 2025-09-27 16:44:44
+Scale: 4.00
+--------------------------------
+Course                     Credits      Grade     Points     Status
+Math                          2.00          B       3.00       Pass
+Physics                       2.00          B       3.00       Pass
+--------------------------------
+Total Credits: 4.00
+GPA (4.00): 3.00
+================================
